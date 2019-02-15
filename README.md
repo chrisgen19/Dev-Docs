@@ -4,7 +4,7 @@
 
 | Key        | Description
 |------------|----------------------------
-| `name`     | All iTerm panes in this window will be given this name.
+| [name](https://github.com/TomAnthony/itermocil/tree/master/test_layouts)     | All iTerm panes in this window will be given this name.
 | `root`     | The path where all panes in the window will be started
 | `layout`   | The layout format that iTermocil will use (see below)
 | `panes`    | An `Array` of panes
